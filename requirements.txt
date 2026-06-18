@@ -1,0 +1,10 @@
+streamlit
+pdfplumber
+openpyxl
+pandas
+requests
+deepgram-sdk
+audio-recorder-streamlit
+pytesseract
+Pillow
+PyMuPDF
